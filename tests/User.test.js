@@ -36,4 +36,4 @@ test('should throw error when age exceeds 150', () => {
 expect(() => new User('John', 'a@b.com', 200)).toThrow('Invalid age');
 });
 });
-});
+});test('should fail intentionally', () => { expect(1).toBe(2); });
