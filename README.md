@@ -15,3 +15,21 @@ npm test
 npm run test:coverage
 npm run lint
 npm run format:check
+
+📊 Coverage
+https://img.shields.io/badge/coverage-100%25-brightgreen
+
+📁 Struktur
+text
+src/→ source code
+tests/→ unit test
+.github/→ CI workflow
+
+👤 Author
+Nama: [ANI RIZQI ZIAROTUS SUNANI]
+NIM: [E41251131]
+
+📝 Catatan
+Semua test mengikuti struktur AAA
+Penamaan test: should [behavior] when [condition]
+Coverage target: 80%+ (tercapai: __%)
